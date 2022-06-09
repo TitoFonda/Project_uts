@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_uts</string>
+    <string name="hintNama">Nama</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintKomentar">Komentar</string>
+    <string name="txtTanya">Masukkan pertanyaan anda!</string>
+    <string name="hintPertanyaan">Pertanyaan</string>
+    <string name="txtBatal">Batal</string>
+    <string name="txtProses">Proses</string>
+</resources>
